@@ -28,12 +28,12 @@ let job2 = new CronJob('*/2 * * * * *', function () {
 
 ```js
 
-// 写自己的邮箱
+// 写要配置的发送方的邮箱
 const mail_opts = {
     host: 'smtp.163.com',
     port: 25,
     auth: {
-        user: 'giscafer@163.com', // 邮箱账号，写你的
+        user: 'xxxx@163.com', // 邮箱账号
         pass: '******' // 密码
     }
 };
