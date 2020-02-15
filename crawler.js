@@ -2,7 +2,7 @@
 
 const cheerio = require('cheerio');
 const request = require('superagent');
-const URL = 'http://www.ziroom.com/x/758212028.html';
+const URL = 'http://www.ziroom.com/x/xxxx.html';
 
 //superagent是nodejs里一个非常方便的客户端请求代理模块，当你想处理get,post,put,delete,head请求时,你就应该想起该用它了
 function fetchInfo(url) {
