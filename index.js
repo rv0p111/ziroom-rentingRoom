@@ -3,7 +3,7 @@
 const CronJob = require('cron').CronJob;
 const crawler = require('./crawler');
 const mail = require('./mail');
-const CRAWER_URL = 'http://www.ziroom.com/x/758212028.html'; //你需要的自如租房的房源链接地址
+const CRAWER_URL = 'http://www.ziroom.com/x/758xxxx.html'; //你需要的自如租房的房源链接地址
 
 // 定时执行
 //在linux下使用crontab来进行任务调度十分方便，你可以指定每隔一段时间执行指定的程序、也可以指定每天的某个时刻执行某个程序、还可以按照星期、月份来指定。
