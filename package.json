@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giscafer/ziroom-crawler.git"
+    "url": "git+https://github.com/ZhiXiongChen/ziroom-rentingRoom.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/giscafer/ziroom-crawler/issues"
+    "url": "https://github.com/ZhiXiongChen/ziroom-rentingRoom/issues"
   },
-  "homepage": "https://github.com/giscafer/ziroom-crawler#readme",
+  "homepage": "https://github.com/ZhiXiongChen/ziroom-rentingRoom#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "cron": "^1.3.0",
